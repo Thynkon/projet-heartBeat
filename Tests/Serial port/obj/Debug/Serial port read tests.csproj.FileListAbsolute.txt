@@ -1,0 +1,29 @@
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\bin\Debug\Serial port read tests.exe.config
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\bin\Debug\Serial port read tests.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\bin\Debug\Serial port read tests.pdb
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.csprojAssemblyReference.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial_port_read_tests.frmMain.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial_port_read_tests.Properties.Resources.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.csproj.GenerateResource.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.csproj.CoreCompileInputs.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.pdb
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\bin\Debug\Serial port read tests.exe.config
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.exe
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.pdb
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\bin\Debug\Serial port read tests.exe
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\bin\Debug\Serial port read tests.pdb
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.csprojResolveAssemblyReference.cache
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial_port_read_tests.frmMain.resources
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial_port_read_tests.Properties.Resources.resources
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.csproj.GenerateResource.Cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.csprojAssemblyReference.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\obj\Debug\Serial_port_read_tests.frmMain.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\obj\Debug\Serial_port_read_tests.Properties.Resources.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.csproj.GenerateResource.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.csproj.CoreCompileInputs.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\obj\Debug\Serial port read tests.pdb
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\bin\Debug\Serial port read tests.exe.config
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\bin\Debug\Serial port read tests.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Serial port read tests\Serial port read tests\bin\Debug\Serial port read tests.pdb

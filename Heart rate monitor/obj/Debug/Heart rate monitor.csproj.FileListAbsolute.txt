@@ -1,0 +1,38 @@
+C:\Users\Mario André\source\repos\Heart rate monitor\bin\Debug\Heart rate monitor.exe.config
+C:\Users\Mario André\source\repos\Heart rate monitor\bin\Debug\Heart rate monitor.exe
+C:\Users\Mario André\source\repos\Heart rate monitor\bin\Debug\Heart rate monitor.pdb
+C:\Users\Mario André\source\repos\Heart rate monitor\obj\Debug\Heart rate monitor.csprojAssemblyReference.cache
+C:\Users\Mario André\source\repos\Heart rate monitor\obj\Debug\Heart_rate_monitor.frmMain.resources
+C:\Users\Mario André\source\repos\Heart rate monitor\obj\Debug\Heart_rate_monitor.Properties.Resources.resources
+C:\Users\Mario André\source\repos\Heart rate monitor\obj\Debug\Heart rate monitor.csproj.GenerateResource.cache
+C:\Users\Mario André\source\repos\Heart rate monitor\obj\Debug\Heart rate monitor.csproj.CoreCompileInputs.cache
+C:\Users\Mario André\source\repos\Heart rate monitor\obj\Debug\Heart rate monitor.exe
+C:\Users\Mario André\source\repos\Heart rate monitor\obj\Debug\Heart rate monitor.pdb
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\bin\Debug\Heart rate monitor.exe.config
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\bin\Debug\Heart rate monitor.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\bin\Debug\Heart rate monitor.pdb
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.csprojAssemblyReference.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart_rate_monitor.frmMain.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart_rate_monitor.Properties.Resources.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.csproj.GenerateResource.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.csproj.CoreCompileInputs.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.pdb
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\bin\Debug\Heart rate monitor.exe.config
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.exe
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.pdb
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\bin\Debug\Heart rate monitor.exe
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\bin\Debug\Heart rate monitor.pdb
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.csprojResolveAssemblyReference.cache
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart_rate_monitor.frmMain.resources
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart_rate_monitor.Properties.Resources.resources
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.csproj.GenerateResource.Cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\bin\Debug\Heart rate monitor.exe.config
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\bin\Debug\Heart rate monitor.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\bin\Debug\Heart rate monitor.pdb
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart_rate_monitor.frmMain.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart_rate_monitor.Properties.Resources.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.csproj.GenerateResource.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.csproj.CoreCompileInputs.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Heart rate monitor\obj\Debug\Heart rate monitor.pdb

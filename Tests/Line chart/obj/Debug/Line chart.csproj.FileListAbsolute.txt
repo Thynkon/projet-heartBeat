@@ -1,0 +1,20 @@
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\bin\Debug\graphics_test.exe.config
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\bin\Debug\graphics_test.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\bin\Debug\graphics_test.pdb
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\obj\Debug\Line chart.csprojAssemblyReference.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\obj\Debug\graphics_test.frmMain.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\obj\Debug\graphics_test.Properties.Resources.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\obj\Debug\Line chart.csproj.GenerateResource.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\obj\Debug\Line chart.csproj.CoreCompileInputs.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\obj\Debug\graphics_test.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Line chart\obj\Debug\graphics_test.pdb
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\bin\Debug\graphics_test.exe.config
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\bin\Debug\graphics_test.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\bin\Debug\graphics_test.pdb
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\obj\Debug\Line chart.csprojAssemblyReference.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\obj\Debug\graphics_test.frmMain.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\obj\Debug\graphics_test.Properties.Resources.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\obj\Debug\Line chart.csproj.GenerateResource.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\obj\Debug\Line chart.csproj.CoreCompileInputs.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\obj\Debug\graphics_test.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Line chart\obj\Debug\graphics_test.pdb

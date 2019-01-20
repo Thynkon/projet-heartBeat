@@ -1,0 +1,19 @@
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\bin\Debug\Tests regex.exe.config
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\bin\Debug\Tests regex.exe
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\bin\Debug\Tests regex.pdb
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests regex.csprojResolveAssemblyReference.cache
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests_regex.frmMain.resources
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests_regex.Properties.Resources.resources
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests regex.csproj.GenerateResource.Cache
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests regex.exe
+N:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests regex.pdb
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\bin\Debug\Tests regex.exe.config
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\bin\Debug\Tests regex.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\bin\Debug\Tests regex.pdb
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests regex.csprojAssemblyReference.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests_regex.frmMain.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests_regex.Properties.Resources.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests regex.csproj.GenerateResource.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests regex.csproj.CoreCompileInputs.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests regex.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\projet-heartBeat-master\Tests regex\obj\Debug\Tests regex.pdb

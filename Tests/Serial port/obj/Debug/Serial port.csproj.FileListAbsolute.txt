@@ -1,0 +1,10 @@
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\bin\Debug\Serial port read tests.exe.config
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\bin\Debug\Serial port read tests.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\bin\Debug\Serial port read tests.pdb
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\obj\Debug\Serial port.csprojAssemblyReference.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\obj\Debug\Serial_port_read_tests.frmMain.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\obj\Debug\Serial_port_read_tests.Properties.Resources.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\obj\Debug\Serial port.csproj.GenerateResource.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\obj\Debug\Serial port.csproj.CoreCompileInputs.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\obj\Debug\Serial port read tests.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Serial port\obj\Debug\Serial port read tests.pdb

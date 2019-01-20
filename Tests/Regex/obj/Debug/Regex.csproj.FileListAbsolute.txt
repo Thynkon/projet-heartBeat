@@ -1,0 +1,10 @@
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\bin\Debug\Tests regex.exe.config
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\bin\Debug\Tests regex.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\bin\Debug\Tests regex.pdb
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\obj\Debug\Regex.csprojAssemblyReference.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\obj\Debug\Tests_regex.frmMain.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\obj\Debug\Tests_regex.Properties.Resources.resources
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\obj\Debug\Regex.csproj.GenerateResource.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\obj\Debug\Regex.csproj.CoreCompileInputs.cache
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\obj\Debug\Tests regex.exe
+F:\EPTM\INFO2\M306\P_Practice\0010_Projet Heart Beat\Code source\Tests\Regex\obj\Debug\Tests regex.pdb

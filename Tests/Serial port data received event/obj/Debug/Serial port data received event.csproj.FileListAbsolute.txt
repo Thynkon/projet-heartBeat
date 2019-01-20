@@ -1,0 +1,10 @@
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\bin\Debug\Serial port data received event.exe.config
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\bin\Debug\Serial port data received event.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\bin\Debug\Serial port data received event.pdb
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\obj\Debug\Serial port data received event.csprojAssemblyReference.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\obj\Debug\Serial_port_data_received_event.Form1.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\obj\Debug\Serial_port_data_received_event.Properties.Resources.resources
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\obj\Debug\Serial port data received event.csproj.GenerateResource.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\obj\Debug\Serial port data received event.csproj.CoreCompileInputs.cache
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\obj\Debug\Serial port data received event.exe
+I:\EPTM\INFO2\M306\P_Practice\0010_Projet Heartbeat monitor\Code source\Tests\Serial port data received event\obj\Debug\Serial port data received event.pdb
